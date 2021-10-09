@@ -1,13 +1,8 @@
 # JavaScript conditions and loops
 
-## Switch statment
-### Write this question using switch statment that if:
-
-* Grade is 90 and above is an A 
-* Grade of 80 to 89 is a B  
-* Grade of 70 to 79 is a C  
-* Grade of 60 to 69 is a D 
-* Grade of 59 or below is a F
+## Switch statement
+- Declare a variable and assign number to it from 1 to 7
+- Use switch statement to print the day's name based on its number (print "Sunday" if the number is 1, "Monday" if the number is 2, ...)
 
 
 
@@ -15,6 +10,15 @@
 ### even & odd numbers
 - Declare a variable and assign number to it 
 - Write if else statement to check if that number you entered is even or odd and print the result in the console
+
+### Write this question using if else statment, that is if:
+
+* Grade is 90 and above is an A 
+* Grade of 80 to 89 is a B  
+* Grade of 70 to 79 is a C  
+* Grade of 60 to 69 is a D 
+* Grade of 59 or below is a F
+
 
 ### Leap year
 A leap year (also known as an intercalary year or bissextile year) is a calendar year that contains an additional day (or, in the case of a lunisolar calendar, a month) added to keep the calendar year synchronized with the astronomical year or seasonal year.
